@@ -1,6 +1,6 @@
  # Hi there 👋, I'm George Manoj  
 
-🔐 Passionate about **Cybersecurity**  
+🔐 Passionate about **MERN Stack Development** and **Cybersecurity**
 💻 Currently pursuing **MERN Stack Development**  
 🚀 Always learning & building projects  
 
