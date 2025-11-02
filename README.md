@@ -18,14 +18,6 @@
 
 ---
 
-<p align ="center">
- ## 📊 GitHub Stats ### 💡 Most Used Languages
-</p> 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgemanoj2004&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgemanoj2004&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
 ## 📊 GitHub Stats  
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgemanoj2004&show_icons=true&theme=tokyonight) 
 ### 💡 Most Used Languages
