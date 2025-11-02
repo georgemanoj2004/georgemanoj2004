@@ -16,7 +16,7 @@
 
 ---
 ### 📊 GitHub Overview
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=georgemanoj2004&show_icons=true&theme=tokyonight" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgemanoj2004&theme=tokyonight" height="180em" />
 </p>
