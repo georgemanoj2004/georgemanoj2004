@@ -18,7 +18,7 @@
 
 ## 📊 GitHub Stats  
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgemanoj2004&show_icons=true&theme=tokyonight) 
-### 💡 Most Used Languages
+💡 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgemanoj2004&layout=compact&theme=tokyonight)
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=georgemanoj2004&theme=tokyonight)
