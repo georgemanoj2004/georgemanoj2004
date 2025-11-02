@@ -18,6 +18,24 @@
 
 ## 📊 GitHub Stats  
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgemanoj2004&show_icons=true&theme=tokyonight) 
+### 💡 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgemanoj2004&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=georgemanoj2004&theme=tokyonight)
+
+---
+
+### 📈 Profile Summary
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgemanoj2004&theme=tokyonight)
+
+---
+
+### 🧩 Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=georgemanoj2004&color=brightgreen)
+
 
 ---
 
