@@ -15,11 +15,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ---
-### 📊 GitHub Overview
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=georgemanoj2004&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgemanoj2004&theme=tokyonight" height="180em" />
-</p>
+
 
 ## 📊 GitHub Stats  
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgemanoj2004&show_icons=true&theme=tokyonight) 
