@@ -17,7 +17,7 @@
 ---
 
 ## 📊 GitHub Stats  
-(https://github-readme-stats.vercel.app/api?username=georgemanoj2004&show_icons=true&theme=tokyonight) 
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgemanoj2004&show_icons=true&theme=tokyonight) 
 
 ---
 
